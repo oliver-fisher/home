@@ -9,3 +9,8 @@ Based on Sirupsen's approach.
 Use `linker.sh` to clone and symlink dotfiles across machines. Invoke
 it to symlink the dotfiles. It will prompt to override if the files
 already exist.
+
+
+Now there is  abunch of test here.
+And evenmore
+And so one...
